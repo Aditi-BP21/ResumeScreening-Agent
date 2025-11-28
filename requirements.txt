@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+huggingface-hub
+sentence-transformers
+PyPDF2
+python-docx
+numpy
+pandas
+scikit-learn
+openai
+tqdm
